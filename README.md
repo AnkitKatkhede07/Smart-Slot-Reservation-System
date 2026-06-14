@@ -1,4 +1,4 @@
-# 🏨 Slot Booking System - Spring Boot Project
+#  Slot Booking System - Spring Boot Project
 
 This is a simple Slot Booking System developed using Spring Boot, Spring Data JPA, and H2 in-memory database.
 
