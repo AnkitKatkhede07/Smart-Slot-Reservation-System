@@ -1,3 +1,30 @@
+# Smart Slot Reservation System
+
+## Tech Stack
+- React.js
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- Git & GitHub
+
+## Features
+- User Registration
+- Login Authentication
+- Slot Booking
+- Slot Cancellation
+- Booking History
+- Responsive UI
+- REST APIs
+
+## Architecture
+
+React Frontend
+      ↓
+Spring Boot REST APIs
+      ↓
+H2 Database
+
 #  Slot Booking System - Spring Boot Project
 
 This is a simple Slot Booking System developed using Spring Boot, Spring Data JPA, and H2 in-memory database.
