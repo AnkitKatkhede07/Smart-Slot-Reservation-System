@@ -25,6 +25,19 @@ Spring Boot REST APIs
       ↓
 H2 Database
 
+Project Structure
+Smart-Slot-Reservation-System
+│
+├── frontend
+│   ├── src
+│   ├── public
+│   └── package.json
+│
+├── src/main/java
+├── src/main/resources
+├── pom.xml
+└── README.md
+
 #  Slot Booking System - Spring Boot Project
 
 This is a simple Slot Booking System developed using Spring Boot, Spring Data JPA, and H2 in-memory database.
